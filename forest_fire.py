@@ -3,7 +3,7 @@ import ee
 import json
 import geemap
 
-ee.Initialize(project='riti-483509')
+ee.Initialize(project='<project_id>')
 
 SCALE = 1000
 MAXPIX = 1e13
